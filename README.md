@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning react+laravel<br>🎯 Goals: Pivot to machine learning<br>🎲 Progress: Currently mastering web development & DSA</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning react+django<br>🎯 Goals: Pivot to machine learning<br>🎲 Progress: Currently mastering web development & DSA</p>
 
 ###
 
