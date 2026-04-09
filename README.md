@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning react+django<br>🎯 Goals: Pivot to machine learning<br>🎲 Progress: Currently mastering web development & DSA</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently a student at A2SV<br>🎯 Goals: Pivot to AI engineering<br>🎲 Progress: Currently mastering DSA & making Django projects in my free time</p>
 
 ###
 
