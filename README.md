@@ -1,6 +1,6 @@
 # ![Hi, I'm Abdellah](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=250&height=40&lines=Hi%2C+I'm+Abdellah!👋🏼;+;+)
 
-[View my Resume](https://github.com/ActualLearner/ActualLearner/blob/main/abdellah_shafi_resume.pdf) 📝
+[View my Resume](https://github.com/ActualLearner/ActualLearner/blob/main/resume.pdf) 📝
 
 
 ### 🧰 Here is what I'm working on!  
