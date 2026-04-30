@@ -5,11 +5,9 @@
 
 ### 🧰 Here is what I'm working on!  
 
-- 🔭 I'm currently a CS student at Addis Ababa University.
-- 📚 An ALX graduate & a G7 A2SVian.
-- 🌱 Building scalable backend API's with Django, fullstack apps, RAG chatbots, and LLM evaluation platforms.
-- 🎯 Strong interest in Machine learning & it's real-world applications.
-- 📚 Current focus: Data Structures & Algorithms, Django REST Framework, and LLM orchestration.
+- 🔭 CS student at AAU, ALX graduate, A2SVian.
+- 🎯 Current focus: DSA (A2SV), Django, LLM tooling
+- 📍 Open to internships and collaborations
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
