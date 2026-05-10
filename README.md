@@ -88,10 +88,10 @@
 |   ![Abdellah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ActualLearner&theme=rogue)
 | :---: |
 
-| ![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ActualLearner&show_icons=true&theme=city_lights) | ![Abdellah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ActualLearner&theme=city-lights) |
+| ![Abdellah's GitHub stats](./profile/stats.svg) | ![Abdellah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ActualLearner&theme=city-lights) |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ActualLearner&theme=city_lights) |
+| ![Top Langs](./profile/langs.svg) |
 | :---: |
 
 ---
